@@ -8,7 +8,7 @@ Device Spec :
 - Kingston Fury Dual Chanel 16Gb
 
 Works :
-(Everything work's fine : Audio ALC897 Codec Front and rear, USB Port, LAN, Hibernate Reboot and Shutdown work perfectly)
+(Everything work's fine : Duall Display, Audio ALC897 Codec Front and rear, USB Port, LAN, Hibernate Reboot and Shutdown working perfectly)
 
 <img src="Screen1.png">
 <img src="Screen2.png">
