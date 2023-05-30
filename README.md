@@ -3,7 +3,7 @@ EFI for Gigabyte H510M-H (OS Ventura 13.4)
 Device Spec :
 - Gigabyte H510M-H L1200
 - Intel Core i5 10400
-- NVDIA GT 730 2Gb (Kepler)
+- Asus GT 730 2Gb (Kepler)
 - NVME 512Gb
 - Kingston Fury Dual Chanel 16Gb
 
